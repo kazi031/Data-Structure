@@ -1,0 +1,30 @@
+Enter The number of nodes:Enter The number of edge:Enter nodes n1 & n2:
+Adjacent List of node 0-->1-->2-->3
+Adjacent List of node 1-->0-->4-->5
+Adjacent List of node 2-->0
+Adjacent List of node 3-->0-->6
+Adjacent List of node 4-->1
+Adjacent List of node 5-->1
+Adjacent List of node 6-->3
+0 1 2 3 4 5 6 
+The distance of 0 node is 0
+The colour of 0 is 2
+Parent of 0 node is -1
+The distance of 1 node is 1
+The colour of 1 is 2
+Parent of 1 node is 0
+The distance of 2 node is 1
+The colour of 2 is 2
+Parent of 2 node is 0
+The distance of 3 node is 1
+The colour of 3 is 2
+Parent of 3 node is 0
+The distance of 4 node is 2
+The colour of 4 is 2
+Parent of 4 node is 1
+The distance of 5 node is 2
+The colour of 5 is 2
+Parent of 5 node is 1
+The distance of 6 node is 2
+The colour of 6 is 2
+Parent of 6 node is 3

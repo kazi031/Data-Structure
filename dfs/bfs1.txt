@@ -1,0 +1,10 @@
+9 9
+Short
+pant
+belt
+shirt
+tie
+jacket
+socks
+shoe
+watch

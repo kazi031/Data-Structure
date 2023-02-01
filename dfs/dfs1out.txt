@@ -1,0 +1,9 @@
+Map of 9 is 0
+Map of 9 is 1
+Map of Short is 2
+Map of pant is 3
+Map of belt is 4
+Map of shirt is 5
+Map of tie is 6
+Map of jacket is 7
+Map of socks is 8
